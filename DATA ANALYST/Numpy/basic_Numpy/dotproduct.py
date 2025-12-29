@@ -1,0 +1,9 @@
+import numpy as np
+
+# dotproduct = row*column
+a = np.array([[1,2],
+              [3,4]])
+b = np.array([[11,12],
+              [13,14]])
+c = a.dot(b)
+print(c)
