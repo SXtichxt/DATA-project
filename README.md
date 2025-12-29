@@ -1,4 +1,4 @@
-# DATA-project
+# DATA-PRACTICE
 
 ## 📌 Overview
 -I'm try to Practice and learn new knowledge and love Data because i love to live with data
