@@ -8,6 +8,9 @@
 - Python
 - Excel
 - SQL
+- Anaconda
+- jupyter notebook
+- VScode
 - scikit-learn
 - pandas, NumPy
 - TF-IDF
