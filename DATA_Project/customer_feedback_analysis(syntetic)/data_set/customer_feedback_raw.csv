@@ -1,0 +1,9 @@
+customer_id,age,gender,product,rating,feedback,sentiment,spend,date
+C001,25,M,Phone,5,สินค้าดีมาก ใช้งานลื่น,positive,15900,2024-01-05
+C002,30,F,Laptop,4,เครื่องแรง แต่แบตหมดไว,neutral,28900,2024-01-06
+C003,22,F,Phone,2,เครื่องช้าและค้างบ่อย,negative,12900,2024-01-06
+C004,40,M,Tablet,5,เหมาะกับทำงานมาก,positive,18900,2024-01-07
+C005,,F,Laptop,3,เฉย ๆ ไม่คุ้มราคา,neutral,27900,2024-01-08
+C006,35,M,Phone,1,แย่มาก พังเร็ว,negative,9900,2024-01-08
+C007,28,F,Tablet,4,จอชัด ใช้ง่าย,positive,17500,2024-01-09
+C008,45,M,Laptop,5,คุ้มค่ามาก แนะนำ,positive,31900,2024-01-10
